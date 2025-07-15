@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/narendra-kamepalli-6828b7269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinthagunta krishna reddy" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna_reddy_ch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_reddy_ch_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/narendra-kamepalli-6828b7269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinthagunta krishna reddy" height="30" width="40" style="padding:20" /></a>
+<a href="https://www.instagram.com/urs_narrii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_reddy_ch_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishna_reddy79939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishna_reddy79939" height="30" width="40" /></a>
 </p>
 
