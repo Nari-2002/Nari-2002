@@ -44,7 +44,7 @@
 ---
 
 ### 🛠 Languages & Tools
-<p align="left">
+<p align="left" style="background:white;">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
