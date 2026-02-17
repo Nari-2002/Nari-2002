@@ -17,8 +17,6 @@
 
 ---
 
-<!-- ======================= ABOUT ME ======================= -->
-
 ## 🚀 About Me
 
 - 🌱 Currently learning **MERN Stack**
@@ -27,8 +25,6 @@
 - ⚡ Fun fact: *Ctrl + A, Ctrl + C, Ctrl + V = The Holy Trinity of Programming*
 
 ---
-
-<!-- ======================= CONNECT WITH ME ======================= -->
 
 ## 🌐 Connect With Me
 
@@ -45,8 +41,6 @@
 </p>
 
 ---
-
-<!-- ======================= TECH STACK ======================= -->
 
 ## 🛠 Tech Stack & Skills
 
@@ -82,29 +76,42 @@
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
+# 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nari-2002&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nari-2002&theme=tokyonight" />
 </p>
 
+---
 
+# 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nari-2002&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-<!-- ======================= LEETCODE STATS ======================= -->
+# 🚀 Featured Projects
 
-## 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nari-2002&repo=FoodOrdering&theme=tokyonight" />
+</p>
+
+<!-- 🔁 You can duplicate above line and change repo name to show more projects -->
+
+---
+
+# 🏆 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/narendra-2002?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
-
-<!-- ======================= FOOTER ======================= -->
 
 <h3 align="center">⭐️ From Narendra | Keep Coding 🚀</h3>
