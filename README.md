@@ -71,7 +71,7 @@
 
 ### 🛠 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=postman,vscode" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,pycharm" />
 </p>
 
 ---
